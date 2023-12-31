@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "dev": "next dev"
   },
   "author": "",
   "license": "ISC",
@@ -14,6 +15,9 @@
     "ganache": "^7.9.2",
     "ganache-cli": "^6.12.2",
     "mocha": "^9.1.2",
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "router-dom": "^2.2.11",
     "solc": "^0.4.17",
     "web3": "^1.6.0"
   }
