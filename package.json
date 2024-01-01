@@ -18,6 +18,8 @@
     "next": "^12.3.4",
     "react": "^18.2.0",
     "router-dom": "^2.2.11",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5",
     "solc": "^0.4.17",
     "web3": "^1.6.0"
   }
