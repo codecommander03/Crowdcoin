@@ -1,5 +1,5 @@
 # CROWDCOIN
-A web app inspired from [Kickstarter](https://www.kickstarter.com/) but all transactions are deployed on Ethereum's Sepolia Testnetwork
+A web app inspired from [Kickstarter](https://www.kickstarter.com/) but all transactions are deployed on Ethereum's Sepolia Test network
 
 ## Home Page
 ![image](https://github.com/codecommander03/Crowdcoin/assets/114931868/8a579f47-7475-4310-a264-de36db65d4d1)
